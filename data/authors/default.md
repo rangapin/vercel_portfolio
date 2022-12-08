@@ -3,9 +3,6 @@ name: Richard Angapin
 avatar: /static/images/color-rich.png
 occupation: Web Artisan
 company: Freediving Nicaragua
-email: richardangapin@icloud.com
-linkedin: https://www.linkedin.com/rangapin
-github: https://github.com/rangapin
 ---
 
 I am from Reunion Island, France.
