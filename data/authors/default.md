@@ -1,16 +1,17 @@
 ---
-name: Tails Azimuth
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+name: Richard Angapin
+avatar: /static/images/color-rich.png
+occupation: Web Artisan
+company: Freediving Nicaragua
+email: richardangapin@icloud.com
+linkedin: https://www.linkedin.com/rangapin
+github: https://github.com/rangapin
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+I am from Reunion Island, France.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+I have a Bachelor's Degree in Web Development from the University of Strasbourg and I love working with technologies such as PHP, Wordpress, and Laravel.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+When I am not building websites or brainstorming back-end applications, I like to spend my time Freediving around the most beautiful destinations on the planet!
+
+Let's connect & make your idea a digital reality!
